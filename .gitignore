@@ -1,0 +1,24 @@
+# Source: https://gist.github.com/dedunumax/54e82214715e35439227
+
+##############################
+## Gradle
+##############################
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+
+##############################
+## Visual Studio Code
+##############################
+.vscode/
+.code-workspace
+
+# Misc
+.classpath
+.project
+.settings/
+*/config_files/
